@@ -360,6 +360,11 @@ section {
         align-items: center;
 
     }
+    .pdf embed {
+        min-height: 39em;
+        min-width: 39em;
+        border-radius: 7px;
+    }
 }
 
 @media (max-width: 641px) {
@@ -386,6 +391,11 @@ section {
         max-width: 335px;
         overflow: hidden;
     }
+    .pdf embed {
+        min-height: 31em;
+        min-width: 31em;
+        border-radius: 7px;
+    }
     .footer {
         
         padding: 1.7em 50px;
@@ -410,6 +420,11 @@ section {
     .card-contact .card {
         max-width: 199px;
         overflow: hidden;
+    }
+    .pdf embed {
+        min-height: 25em;
+        min-width: 25em;
+        border-radius: 7px;
     }
     .footer {
         
