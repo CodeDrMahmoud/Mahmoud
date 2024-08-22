@@ -79,7 +79,7 @@ section {
 
 @keyframes animate {
     0%{
-        content: "Graphic Designer"
+        content: "Data Analyst"
     }
     20% {
         content: "E-Learning Developer"
@@ -88,10 +88,10 @@ section {
         content: "Professional Trainer"
     }
     60% {
-        content: "Learning Consultant"
+        content: "AI Prompt Engineer"
     }
     80% {
-        content: "Web Developer"
+        content: "Certified Talent Assessor"
     }
     100% {
         content: "Instructional Designer"
